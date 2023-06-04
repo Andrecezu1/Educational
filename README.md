@@ -23,7 +23,7 @@ The data was gathered from the ICFES oficial page which is the institution respo
 
 ## File Descriptions <a name="files"></a>
 
-There is one (1) notebook that has the data cience process and the analysis followed to answer the questions above. This file is named "DataScienceCapstone.ipynb".
+There is one (1) notebook that has the data cience process and the analysis followed to answer the questions above. This file is named "Capstone.ipynb".
 
 ## Results<a name="results"></a>
 

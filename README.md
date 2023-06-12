@@ -27,7 +27,7 @@ There is one (1) notebook that has the data cience process and the analysis foll
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@andrecezu/educational-data-cambiar-339939b5511c).
+The main findings of the code can be found at the post available [here](https://medium.com/@andrecezu/analyzing-the-national-bachelor-test-results-in-colombia-339939b5511c).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 

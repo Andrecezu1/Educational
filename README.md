@@ -12,11 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-In Colombia there is a Test to measure the educational quality of universities. This test is called Saber-Pro. In the test there are asked socio demographical questions that enable the analysis of the results obtained with information that enable me to answer these questions:
-
-1. ¿Which are the socio demographic variables that most influence the results in the test?
-2. ¿Is the city where people live related to their scores?
-3. ¿What are the top 20 universities?
+In Colombia there is a Test to measure the educational quality of universities. This test is called Saber-Pro. In the test there are asked socio demographical questions that enable the analysis of the results obtained with information that enable me to create a model that will predict a student result based on different conditions such as the university where he studied of the economical conditions of the student and his family.
 
 The data was gathered from the ICFES oficial page which is the institution responsible for the tests development.
 1. Instituto Colombiano para la Evaluación de la Educación - ICFES (2023). DataIcfes. Saber 11. https://www.icfes.gov.co/web/guest/data-icfes
